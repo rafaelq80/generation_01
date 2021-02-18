@@ -9,11 +9,11 @@ Instale a versão mais recente do Java (Java SE 15) [Oracle](https://www.oracle.
 
 ## Usage
 
-Acesse a pasta de cada projeto e execute o arquivo Testa com o comando javac.
+Acesse a pasta de cada projeto e execute o arquivo de teste da classe com o comando javac.
 
-Exemplo:
+**Exemplo:**
 
-```python
+```java
 javac TestaCarro.java
 ```
 
