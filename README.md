@@ -1,4 +1,4 @@
-# **PROVA TÉCNICA JAVA - SELEÇÃO GENERATION 01**
+# **JAVA - GENERATION 01**
 
 São 4 Projetos desenvolvidos na linguagem Java, trabalhando conceitos de Orientação à Objetos.
 
